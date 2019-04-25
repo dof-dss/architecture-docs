@@ -1,6 +1,6 @@
 # Technical Documentation
 
-This project uses the [Tech Docs Template][template], which is a [Middleman template][mmt] that you can use to build technical documentation using a GOV.UK style.
+This project uses the [Tech Docs Template][template], which is a [Middleman template][mmt] that you can use to build technical documentation using a DSS (GOV.UK modified) style.
 
 You’re welcome to use the template even if your service isn’t considered part of GOV.UK, but your site or service must not:
 
