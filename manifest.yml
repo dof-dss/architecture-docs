@@ -1,6 +1,6 @@
 ---
 applications:
-- name: dss-ea
+- name: nics-ea
   memory: 64M
   instances: 2
   path: ./build

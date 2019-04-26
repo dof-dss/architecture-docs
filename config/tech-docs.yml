@@ -1,17 +1,16 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: dosc.dss-ea.service.gov.uk
+host: nics-ea.london.cloudapps.digital
 
 # Header-related options
 show_govuk_logo: false
 service_name: NICS Enterprise Architecture
 service_link: /
-phase: Beta
+phase: Alpha
 
 # Links to show on right-hand-side of header
 header_links:
-  Support: https://docs.es.service.gov.uk/support
   Documentation: /
-  GitLab: https://gitlab
+  GitLab: https://svegit01.thestables.net/pattersons/architecture-docs
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
@@ -33,5 +32,5 @@ max_toc_heading_level: 6
 # Prevent robots from indexing (e.g. whilst in development)
 prevent_indexing: false
 
-show_contribution_banner: true
-github_repo: alphagov/YOUR_REPO
+show_contribution_banner: false
+github_repo:
