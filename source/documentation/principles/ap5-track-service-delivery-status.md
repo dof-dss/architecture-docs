@@ -6,4 +6,4 @@ Citizen centric service delivery means that citizens get information on status o
 
 **Implication**
 
-Use common service delivery history service.
+Use the common service delivery history service.

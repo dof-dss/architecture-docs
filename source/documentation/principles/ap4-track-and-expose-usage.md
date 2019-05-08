@@ -6,4 +6,4 @@ An important element in evolving services is learning what is working and what i
 
 **Implication**
 
-Leverage common service delivery history service.
+Use the common service for tracking service and platform related events.

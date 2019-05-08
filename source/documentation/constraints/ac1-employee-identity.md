@@ -6,4 +6,4 @@ At present NI Government is using Active Directory as the source identity manage
 
 **Implication**
 
-Active Directory and solutions depending on its data must be used as the employee identity source going forward. SAML-P is to be used as the most prominent protocol for authentication in enterprises - all employee facing solutions exposing UI should be leveraging SAML-P or OpenID Connect as authentication protocols.
+Active Directory and solutions depending on its data must be used as the employee identity source going forward. SAML-P is to be used as the most prominent protocol for authentication in enterprises - all employee facing solutions exposing UI should use [SAML-P](https://en.wikipedia.org/wiki/SAML_2.0) or [OpenID Connect](https://openid.net/connect) as authentication protocols.

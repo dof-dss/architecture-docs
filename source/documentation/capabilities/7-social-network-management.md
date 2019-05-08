@@ -2,9 +2,7 @@
 
 **Common Elements**
 
-Social network monitoring,
-statistics and engagements
-tooling accessible by multiple departments.
+Social network monitoring, statistics and engagements tooling accessible by multiple departments.
 
 **Reasoning**
 

@@ -8,5 +8,5 @@ should be used.
 
 **Implication**
 
-OAuth/Open ID Connect to be used as the most prominent authentication protocol for citizen
+[OAuth](https://oauth.net/2/) / [OpenID Connect](https://openid.net/connect) Connect to be used as the most prominent authentication protocol for citizen
 facing services.
