@@ -1,4 +1,4 @@
-## AP9 - Use centralised identity / federation providers
+## AP9 - Follow secure development guidelines
 
 **Rationale**
 

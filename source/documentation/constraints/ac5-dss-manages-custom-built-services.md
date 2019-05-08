@@ -8,6 +8,6 @@ the longer lifespan of the service.
 
 **Implication**
 
-DSS should be managing and supporting custom built, tailored solutions, they should not be
+DSS should manage and support custom built, tailored solutions, they should not be
 outsourced as managed services. External managed services can be those that are ready-made
-community services not requiring customisation, only configuration. 
+community services not requiring customisation only configuration. 
