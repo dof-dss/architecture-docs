@@ -1,5 +1,5 @@
 PATH
-  remote: ../../tech-docs-gem
+  remote: ../tech-docs-gem
   specs:
     govuk_tech_docs (1.8.2)
       activesupport
@@ -28,7 +28,7 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     autoprefixer-rails (6.7.7.2)
       execjs
-    backports (3.13.0)
+    backports (3.14.0)
     chronic (0.10.2)
     chunky_png (1.3.11)
     coderay (1.1.2)

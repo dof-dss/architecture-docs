@@ -12,4 +12,4 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 #gem 'govuk_tech_docs'
 
 # Use local version of govuk_tech_docs
-gem 'govuk_tech_docs', path: '../../tech-docs-gem'
+gem 'govuk_tech_docs', path: '../tech-docs-gem'
