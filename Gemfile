@@ -10,6 +10,4 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 
 # Include the tech docs gem
 #gem 'govuk_tech_docs'
-
-# Use local version of govuk_tech_docs
 gem 'dss_tech_docs'
