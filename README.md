@@ -1,13 +1,8 @@
-# Technical Documentation
+# NICS Enterprise Architecture
 
-This project uses the [Tech Docs Template][template], which is a [Middleman template][mmt] that you can use to build technical documentation using a DSS (GOV.UK modified) style.
+## Technical Documentation
 
-You’re welcome to use the template even if your service isn’t considered part of GOV.UK, but your site or service must not:
-
-- identify itself as being part of GOV.UK
-- use the crown or GOV.UK logotype in the header
-- use the GDS Transport typeface
-- suggest that it’s an official UK government website if it’s not
+This project uses the [Tech Docs Template][template], which is a [Middleman template][mmt] that you can use to build technical documentation using a NICS Digital Shared Services style. It is based on the GOV.UK Tech Docs Template with a modified tech-docs-gem to implement the required style changes. You will need to install a local version of the tech-docs-gem and reference this in your gemfile.
 
 👉 To find out more about setting up and managing content for a website using this template, see the [Tech Docs Template documentation][tdt-docs].
 

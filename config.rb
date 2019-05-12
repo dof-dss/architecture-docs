@@ -1,4 +1,4 @@
-require 'govuk_tech_docs'
+require 'dss_tech_docs'
 
 GovukTechDocs.configure(self)
 
