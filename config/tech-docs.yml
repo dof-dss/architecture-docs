@@ -10,7 +10,7 @@ phase: Alpha
 # Links to show on right-hand-side of header
 header_links:
   Documentation: /
-  GitLab: https://svegit01.thestables.net/pattersons/architecture-docs
+  github: https://github.com/dof-dss/architecture-docs
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
@@ -33,4 +33,4 @@ max_toc_heading_level: 6
 prevent_indexing: false
 
 show_contribution_banner: false
-github_repo:
+github_repo: https://github.com/dof-dss/architecture-docs
