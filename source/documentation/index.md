@@ -423,6 +423,10 @@ This section provides detailed logical service architecture for the main service
 - [Secure Messaging](documentation/architecture#secure-messaging)
 - [Citizen Portal](documentation/architecture#citizen-portal)
 
+## NICS Information & Technical Design Authority
+
+This site and its contents are reviewed and approved by the NICS Information & Technical Design Authority (ITDA). ITDA meets once a quarter. Its memberships comprises senior IT professionals from DSS (Department of Finance) and other NICS departments. Any changes to this architecture will require ITDA approval.
+
 ## Providing feedback
 
 The NICS Enterprise Architecture Team is happy to discuss any of the content contained in this document
