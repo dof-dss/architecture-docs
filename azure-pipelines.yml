@@ -17,19 +17,20 @@ steps:
 - script: |
     gem install bundler
     bundle install --retry=3 --jobs=4
+    bundle update
+    bundle exec middleman build
   displayName: 'bundle install'
 
 - task: CopyFiles@1
-  displayName: 'Copy files to $(Build.ArtifactStagingDirectory)'
-  inputs:
-    contents: '**'
-    TargetFolder: '${build.ArtifactStagingDirectory)'
-    
+  displayName: 'Copy files to: $(build.ArtifactStagingDirectory)'
+  inputs:     
+      Contents: '**'
+      TargetFolder: '$(build.ArtifactStagingDirectory)'
+
 - task: PublishBuildArtifacts@1
   displayName: 'publish artifact: drop'
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'drop'
-    publishLocation: 'Container'
 
 
