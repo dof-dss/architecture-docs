@@ -96,7 +96,7 @@ The BDN below identifies the following benefits to the NICS:
 - Reduced overall service delivery costs (total cost of ownership);
 - Investment decisions based on service usage statistics;
 - Reduced time to market; and
-- Reduced net new effort for digital services implementation.
+- Reduced net effort for new digital services.
 
 ![Benefits Dependency Network](images/benefits-dependency-network.png)
 
