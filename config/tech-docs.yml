@@ -10,7 +10,7 @@ phase: Alpha
 # Links to show on right-hand-side of header
 header_links:
   Documentation: /
-  github: https://github.com/dof-dss/architecture-docs
+  GitHub: https://github.com/dof-dss/architecture-docs
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
