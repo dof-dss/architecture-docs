@@ -85,14 +85,14 @@ Digital services must also exhibit the following quality attributes:
 
 ### Organisational Benefits
 
-A benefit dependency network (BDN) is a diagram having a specific structure that visualises multiple cause-effect relationships organised into capabilities, changes and benefits. It is usually read from right to left in order to provide a one-page overview of how a business vision and outcomes can be achieved, and to describe the supporting role of technology capabilities. As such a benefits dependency map allows to validate if and how technology capabilities help achieve overall goals set out by the Government.
+A benefit dependency network (BDN) is a diagram having a specific structure that visualises multiple cause-effect relationships organised into capabilities, changes and benefits. It is usually read from right to left in order to provide a one-page overview of how a business vision and outcomes can be achieved, and to describe the supporting role of technology capabilities. As such a benefits dependency map allows to validate if and how technology capabilities help achieve overall goals set out by an organisation.
 
 The BDN below identifies the following benefits to the NICS:
 
-- Increased transparency;
 - Increased use of digital services (e-services);
 - Reduced administrative overhead;
 - Increased citizen satisfaction with Government services;
+- Increased transparency;
 - Reduced overall service delivery costs (total cost of ownership);
 - Investment decisions based on service usage statistics;
 - Reduced time to market; and
