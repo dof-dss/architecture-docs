@@ -71,7 +71,7 @@ Architectural Constraints are derived from specific mandatory requirements from 
 6. [Solution security should adhere to Government wide standards](documentation/constraints/#ac6-solution-security-must-adhere-to-government-security-standards)
 7. [Monitoring/management should leverage a common hybrid solution](documentation/constraints/#ac6-solution-security-must-adhere-to-government-security-standards)
 
-### Quality attributes
+### Quality Attributes
 
 Digital services must also exhibit the following quality attributes:
 
@@ -80,6 +80,23 @@ Digital services must also exhibit the following quality attributes:
 - Availability and Reliability
 - Extensibility
 - Manageability, Maintainability and Supportability
+
+### Organisational Benefits
+
+A benefit dependency network (BDN) is a diagram having a specific structure that visualises multiple cause-effect relationships organised into capabilities, changes and benefits. It is usually read from right to left in order to provide a one-page overview of how a business vision and outcomes can be achieved, and to describe the supporting role of technology capabilities. As such a benefits dependency map allows to validate if and how technology capabilities help achieve overall goals set out by the Government.
+
+The BDN below identifies the following benefits to the NICS:
+
+- Increased transparency;
+- Increased use of digital services (e-services);
+- Reduced administrative overhead;
+- Increased citizen satisfaction with Government services;
+- Reduced overall service delivery costs (total cost of ownership);
+- Investment decisions based on service usage statistics;
+- Reduced time to market; and
+- Reduced net new effort for digital services implementation.
+
+![Benefits Dependency Network](images/benefits-dependency-network.png)
 
 ## Architecture
 
