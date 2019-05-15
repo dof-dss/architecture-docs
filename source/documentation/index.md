@@ -1,6 +1,10 @@
 # Enterprise Architecture
 
-This document is based on and contains extracts from the architecture description contained within [Common Capabilities to Support Northern Ireland Citizen Service Delivery](https://www.finance-ni.gov.uk/publications/architecture-description-common-capabilities-support-northern-ireland-citizen-service-delivery). The aim of this document is to summarise the principles, constraints, capabilities and initiatives that are needed to deliver the next generation of NICS digital services. The development of the required capabilities is described in terms of a number of initiatives which are grouped into phases.
+This document is based on and contains extracts from the architecture description contained within [Common Capabilities to Support Northern Ireland Citizen Service Delivery](https://www.finance-ni.gov.uk/publications/architecture-description-common-capabilities-support-northern-ireland-citizen-service-delivery).
+
+The aim of this document is to summarise the **principles**, **constraints**, **capabilities** and **initiatives** that are needed to deliver the next generation of NICS digital services. The development of the required capabilities is described in terms of a number of initiatives which are grouped into phases.
+
+This Enterprise Architecture is considered a living document and will be subject to change as organisational business needs and priorities change over time. Significant changes in technology may also drive changes in this architecture.
 
 **TEST CHANGE**
 
@@ -8,11 +12,9 @@ This document is based on and contains extracts from the architecture descriptio
 
 ### Strategic Context
 
-Our overarching goal is to provide services to the citizens of Northern Ireland that deliver the
-outcomes associated with the Programme for Government and the Outcomes Delivery Plan.
+Our overarching goal is to provide services to the citizens of Northern Ireland that deliver the outcomes associated with the Programme for Government and the Outcomes Delivery Plan.
 
-Three published documents set out the vision for digital transformation and how this will be
-achieved in a robust and secure way.
+Three published documents set out the vision for digital transformation and how this will be achieved in a robust and secure way.
 
 - [Making Lives Better - A Strategy for Digital Transformation of Public Services 2017-2021]()
 - [Nothern Ireland Civil Service ICT Strategy 2017-2021]()
@@ -73,7 +75,7 @@ Architectural Constraints are derived from specific mandatory requirements from 
 6. [Solution security should adhere to Government wide standards](documentation/constraints/#ac6-solution-security-must-adhere-to-government-security-standards)
 7. [Monitoring/management should leverage a common hybrid solution](documentation/constraints/#ac6-solution-security-must-adhere-to-government-security-standards)
 
-### Quality attributes
+### Quality Attributes
 
 Digital services must also exhibit the following quality attributes:
 
@@ -82,6 +84,23 @@ Digital services must also exhibit the following quality attributes:
 - Availability and Reliability
 - Extensibility
 - Manageability, Maintainability and Supportability
+
+### Organisational Benefits
+
+A benefit dependency network (BDN) is a diagram having a specific structure that visualises multiple cause-effect relationships organised into capabilities, changes and benefits. It is usually read from right to left in order to provide a one-page overview of how a business vision and outcomes can be achieved, and to describe the supporting role of technology capabilities. As such a benefits dependency map allows to validate if and how technology capabilities help achieve overall goals set out by an organisation.
+
+The BDN below identifies the following benefits to the NICS:
+
+- Increased use of digital services (e-services);
+- Reduced administrative overhead;
+- Increased citizen satisfaction with Government services;
+- Increased transparency;
+- Reduced overall service delivery costs (total cost of ownership);
+- Investment decisions based on service usage statistics;
+- Reduced time to market; and
+- Reduced net effort for new digital services.
+
+![Benefits Dependency Network](images/benefits-dependency-network.png)
 
 ## Architecture
 
@@ -405,6 +424,10 @@ This section provides detailed logical service architecture for the main service
 - [Service Catalogue](documentation/architecture#service-catalogue)
 - [Secure Messaging](documentation/architecture#secure-messaging)
 - [Citizen Portal](documentation/architecture#citizen-portal)
+
+## NICS Information & Technical Design Authority
+
+This site and its contents are reviewed and approved by the NICS Information & Technical Design Authority (ITDA). ITDA meets once a quarter. Its memberships comprises senior IT professionals from DSS (Department of Finance) and other NICS departments. Any changes to this architecture will require ITDA approval.
 
 ## Providing feedback
 
