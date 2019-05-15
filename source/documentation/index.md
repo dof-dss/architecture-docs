@@ -6,8 +6,6 @@ The aim of this document is to summarise the **principles**, **constraints**, **
 
 This Enterprise Architecture is considered a living document and will be subject to change as organisational business needs and priorities change over time. Significant changes in technology may also drive changes in this architecture.
 
-**TEST CHANGE**
-
 ## Need for Change
 
 ### Strategic Context
