@@ -1,10 +1,10 @@
-# Enterprise Architecture
+# Citizen Services Architecture
 
 This document is based on and contains extracts from the architecture description contained within [Common Capabilities to Support Northern Ireland Citizen Service Delivery](https://www.finance-ni.gov.uk/publications/architecture-description-common-capabilities-support-northern-ireland-citizen-service-delivery).
 
 The aim of this document is to summarise the **principles**, **constraints**, **capabilities** and **initiatives** that are needed to deliver the next generation of NICS digital services. The development of the required capabilities is described in terms of a number of initiatives which are grouped into phases.
 
-This Enterprise Architecture is considered a living document and will be subject to change as organisational business needs and priorities change over time. Significant changes in technology may also drive changes in this architecture.
+This Architecture is considered a living document and will be subject to change as organisational business needs and priorities change over time. Significant changes in technology may also drive changes in this architecture.
 
 ## Need for Change
 
