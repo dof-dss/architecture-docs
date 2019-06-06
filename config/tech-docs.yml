@@ -3,7 +3,7 @@ host: nics-ea.london.cloudapps.digital
 
 # Header-related options
 show_govuk_logo: false
-service_name: NICS Enterprise Architecture
+service_name: NICS Citizen Services Architecture
 service_link: /
 phase: Alpha
 
@@ -15,7 +15,7 @@ header_links:
   GitHub: https://github.com/dof-dss/architecture-docs
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
-enable_search: true
+enable_search: false
 
 # Tracking ID from Google Analytics (e.g. UA-XXXX-Y)
 ga_tracking_id:
