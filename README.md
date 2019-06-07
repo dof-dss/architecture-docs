@@ -1,4 +1,4 @@
-# NICS Enterprise Architecture
+# NICS Citizen Services Architecture
 
 ## Technical Documentation
 
