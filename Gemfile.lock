@@ -35,7 +35,7 @@ GEM
     concurrent-ruby (1.1.5)
     contracts (0.13.0)
     dotenv (2.7.2)
-    dss_tech_docs (0.1.1)
+    dss_tech_docs (0.1.2)
       activesupport
       chronic (~> 0.10.2)
       middleman (~> 4.0)
@@ -174,7 +174,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  dss_tech_docs (~> 0.1.1)
+  dss_tech_docs (~> 0.1.2)
   tzinfo-data
   wdm (~> 0.1.0)
 
