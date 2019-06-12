@@ -1,6 +1,6 @@
 ## Notification Service
 
-![Notification Service Solution Architecture](images/notification-service-solution-architecture.png)
+![Notification Service Solution Architecture](/images/notification-service-solution-architecture.png)
 
 The Notification Service follows the service implementation pattern defined previously where each service has:
 

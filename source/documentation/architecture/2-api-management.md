@@ -1,6 +1,6 @@
 ## API Management
 
-![API Management Solution Architecture](images/api-management-solution-architecture.png)
+![API Management Solution Architecture](/images/api-management-solution-architecture.png)
 
 API management is the "glue" component that is not externally visible (except to developers), yet it is very important to ensure sustainable service evolution over time. It enables redirection of APIs to new systems, enables versioning and API revisions.
 
