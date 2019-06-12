@@ -1,6 +1,6 @@
 ## Citizen Portal
 
-![Citizen Portal Solution Architecture](images/citizen-portal-solution-architecture.png)
+![Citizen Portal Solution Architecture](/images/citizen-portal-solution-architecture.png)
 
 The portal capability comprises:
 

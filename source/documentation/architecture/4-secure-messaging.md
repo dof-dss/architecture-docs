@@ -1,6 +1,6 @@
 ## Secure Messaging
 
-![Secure Messaging Solution Architecture](images/secure-messaging-solution-architecture.png)
+![Secure Messaging Solution Architecture](/images/secure-messaging-solution-architecture.png)
 
 Service implementation follows the defined architecture pattern separating citizen UI components from
 backend components. Functionality to citizen channels and other Government systems that need to interact

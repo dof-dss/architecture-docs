@@ -1,6 +1,6 @@
 ## Identity Management
 
-![Identity Management Solution Architecture](images/identity-management-solution-architecture.png)
+![Identity Management Solution Architecture](/images/identity-management-solution-architecture.png)
 
 The main components shown above are:
 

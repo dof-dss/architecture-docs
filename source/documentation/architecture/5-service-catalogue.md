@@ -1,6 +1,6 @@
 ## Service Catalogue
 
-![Service Catalogue Solution Architecture](images/service-catalogue-solution-architecture.png)
+![Service Catalogue Solution Architecture](/images/service-catalogue-solution-architecture.png)
 
 Service catalogue is one of the most central components of the citizen services enablement because it
 provides information not only for citizens to browse and find the required services, but also it is used to link service delivery information to subscriptions and even API/service access security information (through the profile).
