@@ -1,17 +1,17 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: nics-ea.london.cloudapps.digital
+host: docs.ea.digitalni.gov.uk
 
 # Header-related options
 show_govuk_logo: false
 service_name: NICS Citizen Services Architecture
 service_link: /
-phase: Alpha
+phase: Beta
 
 # Links to show on right-hand-side of header
 header_links:
-  Approach: https://dss-dev-approach.london.cloudapps.digital
-  Development: https://dss-developer-docs.london.cloudapps.digital
-  Support: https://dss-support-docs.london.cloudapps.digital
+  #Approach: https://dss-dev-approach.london.cloudapps.digital
+  #Development: https://dss-developer-docs.london.cloudapps.digital
+  #Support: https://dss-support-docs.london.cloudapps.digital
   GitHub: https://github.com/dof-dss/architecture-docs
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
