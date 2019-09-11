@@ -14,9 +14,9 @@ Our overarching goal is to provide services to the citizens of Northern Ireland 
 
 Three published documents set out the vision for digital transformation and how this will be achieved in a robust and secure way.
 
-- [Making Lives Better - A Strategy for Digital Transformation of Public Services 2017-2021]()
-- [Nothern Ireland Civil Service ICT Strategy 2017-2021]()
-- [Cyber Security - A Strategic Framework for Action 2017-2021]()
+- [Making Lives Better - A Strategy for Digital Transformation of Public Services 2017-2021](https://www.finance-ni.gov.uk/publications/digital-transformation-strategy-2017-2021)
+- [Nothern Ireland Civil Service ICT Strategy 2017-2021](https://www.finance-ni.gov.uk/publications/northern-ireland-civil-service-ict-strategy-2017-2021)
+- [Cyber Security - A Strategic Framework for Action 2017-2021](https://www.finance-ni.gov.uk/publications/cyber-security-strategic-framework-action)
 
 ### Key Personas
 
