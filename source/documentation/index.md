@@ -15,8 +15,12 @@ Our overarching goal is to provide services to the citizens of Northern Ireland 
 Three published documents set out the vision for digital transformation and how this will be achieved in a robust and secure way.
 
 - [Making Lives Better - A Strategy for Digital Transformation of Public Services 2017-2021](https://www.finance-ni.gov.uk/publications/digital-transformation-strategy-2017-2021)
-- [Nothern Ireland Civil Service ICT Strategy 2017-2021](https://www.finance-ni.gov.uk/publications/northern-ireland-civil-service-ict-strategy-2017-2021)
+- [Northern Ireland Civil Service ICT Strategy 2017-2021](https://www.finance-ni.gov.uk/publications/northern-ireland-civil-service-ict-strategy-2017-2021)
 - [Cyber Security - A Strategic Framework for Action 2017-2021](https://www.finance-ni.gov.uk/publications/cyber-security-strategic-framework-action)
+
+### Strategic Governance
+
+The NICS Information and Technical Design Authority (ITDA) has developed a set of [Enterprise Architecture Principles](https://www.finance-ni.gov.uk/publications/nics-enterprise-architecture-principles-itda) that must be adhered to when designing and implementing enterprise and solution architectures. Compliance with these principles will be monitored by ITDA.
 
 ### Key Personas
 
