@@ -12,11 +12,12 @@ This Architecture is considered a living document and will be subject to change 
 
 Our overarching goal is to provide services to the citizens of Northern Ireland that deliver the outcomes associated with the Programme for Government and the Outcomes Delivery Plan.
 
-Three published documents set out the vision for digital transformation and how this will be achieved in a robust and secure way.
+A number of published documents set out the vision for digital transformation and how this will be achieved in a robust and secure way.
 
 - [Making Lives Better - A Strategy for Digital Transformation of Public Services 2017-2021](https://www.finance-ni.gov.uk/publications/digital-transformation-strategy-2017-2021)
 - [Northern Ireland Civil Service ICT Strategy 2017-2021](https://www.finance-ni.gov.uk/publications/northern-ireland-civil-service-ict-strategy-2017-2021)
 - [Cyber Security - A Strategic Framework for Action 2017-2021](https://www.finance-ni.gov.uk/publications/cyber-security-strategic-framework-action)
+- [Open Data Strategy for Northern Ireland 2020 - 2023](https://www.finance-ni.gov.uk/publications/open-data-strategy-northern-ireland-2020-2023)
 
 ### Strategic Governance
 
