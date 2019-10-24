@@ -12,6 +12,7 @@ header_links:
   #Approach: https://dss-dev-approach.london.cloudapps.digital
   #Development: https://dss-developer-docs.london.cloudapps.digital
   #Support: https://dss-support-docs.london.cloudapps.digital
+  NICS EA Principles: https://nics-ea-principles.london.cloudapps.digital
   GitHub: https://github.com/dof-dss/architecture-docs
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
