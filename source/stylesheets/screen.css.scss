@@ -1,2 +1,8 @@
+// override the core settings and bring back into line with
+// current GOVUK colours (15/10/20)
 @import "govuk_tech_docs";
+@import "modules/variables";
+@import "modules/core";
+@import "modules/toc";
+@import "modules/page-expiry";
 @import "modules/page-banner";
