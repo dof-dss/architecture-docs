@@ -1,0 +1,23 @@
+version: 2.1
+
+orbs:
+  ruby: circleci/ruby@1.1.1
+
+jobs:
+  build-and-test:
+    docker:
+      - image: 'cimg/ruby:2.7'
+    steps:
+      - checkout
+      - ruby/install-deps
+      - run:
+          command: bundle update
+          name: "Update bundle"
+      - run:
+          command: bundle exec middleman build
+          name: "Build the project using middleman"
+
+workflows:
+  build_and_test:
+    jobs:
+      - build_and_test
