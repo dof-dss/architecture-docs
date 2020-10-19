@@ -1,0 +1,13 @@
+/**
+ * Header Component
+ *
+ * override the govuk border colour
+ */
+
+.govuk-header__container {
+  border-color: govuk-colour("mid-grey")
+}
+
+.govuk-header__container--full_width {
+  border-color: govuk-colour("mid-grey")
+}

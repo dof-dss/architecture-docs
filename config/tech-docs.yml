@@ -5,7 +5,7 @@ host: docs.ea.digitalni.gov.uk
 show_govuk_logo: false
 service_name: NICS Citizen Services Architecture
 service_link: /
-phase: Beta
+phase: beta
 
 # Links to show on right-hand-side of header
 header_links:
@@ -15,22 +15,25 @@ header_links:
   NICS EA Principles: https://principles.ea.digitalni.gov.uk
   GitHub: https://github.com/dof-dss/architecture-docs
 
+footer_links:
+  Accessibility statement: /accessibility.html
+
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
-enable_search: false
+enable_search: true
 
 # Tracking ID from Google Analytics (e.g. UA-XXXX-Y)
 ga_tracking_id: UA-150837477-1
 
 # Enable multipage navigation in the sidebar
-multipage_nav: false
+multipage_nav: true
 
 # Enable collapsible navigation in the sidebar
-collapsible_nav: false
+collapsible_nav: true
 
 # Table of contents depth – how many levels to include in the table of contents.
 # If your ToC is too long, reduce this number and we'll only show higher-level
 # headings.
-max_toc_heading_level: 6
+max_toc_heading_level: 2
 
 # Prevent robots from indexing (e.g. whilst in development)
 prevent_indexing: false

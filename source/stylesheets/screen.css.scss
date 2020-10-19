@@ -1,8 +1,8 @@
-// override the core settings and bring back into line with
-// current GOVUK colours (15/10/20)
+/* need to override the GDS Transport font by setting the font-family variables */
+$govuk-font-family: "Inter", "Open Sans", sans-serif;
+$govuk-font-family-tabular: "Inter", "Open Sans", sans-serif;
+
 @import "govuk_tech_docs";
-@import "modules/variables";
-@import "modules/core";
-@import "modules/toc";
-@import "modules/page-expiry";
+
 @import "modules/page-banner";
+@import "modules/header";
